@@ -1,0 +1,4 @@
+Nomes Tabelas:
+Mob Cada Mob tem um ou mais lugares que apareca
+Bioma
+arma cada Mob pode ou não ter uma arma
